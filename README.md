@@ -1,5 +1,5 @@
 # minimal_ef
-Pages-Template für das Ergänungsfach **Informatik** an der Kantonsschule Frauenfeld
+Pages-Template für das Ergänzungsfach **Informatik** an der Kantonsschule Frauenfeld
 
 Basiert auf dem Thema **minimal**
 
