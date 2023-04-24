@@ -9,8 +9,9 @@ Die Karte [ASR.html](ASR.html).
 
 ## Beschreibung des Rundganges
 
-
-F3355177-E555-4080-9685-AD78D350A500.png
+![alt text](logo.png "Title")
+![][id]
+[id]:logo.png "Title"
 
 1. [Schloss Frauenfeld](#schloss-frauenfeld)
 2. [Sämannsbrunnen](#sämannsbrunnen)
