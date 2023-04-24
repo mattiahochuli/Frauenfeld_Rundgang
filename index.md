@@ -8,7 +8,7 @@ Die Karte [ASR.html](ASR.html).
 
 
 
-![F3355177-E555-4080-9685-AD78D350A500.png](F3355177-E555-4080-9685-AD78D350A500.png "Bild mit Hilfe von Draw Things erstellt.")
+
 
 
 ## Beschreibung des Rundganges
